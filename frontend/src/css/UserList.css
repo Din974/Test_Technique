@@ -1,0 +1,40 @@
+/* UserList.css */
+.user-list-container {
+    font-family: Arial, sans-serif;
+  }
+  
+  .user-list-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .user-list-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .user-list-table th,
+  .user-list-table td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .user-list-table th {
+    text-align: left;
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  .user-list-table td {
+    color: #666;
+  }
+
+  .user-list-table td a {
+    text-decoration: none;
+    color: #007bff;
+  }
+
+  .user-list-table td a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+  }

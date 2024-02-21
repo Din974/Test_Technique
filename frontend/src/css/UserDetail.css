@@ -1,0 +1,47 @@
+.user-detail-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-detail-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .user-detail-info {
+    margin-bottom: 10px;
+  }
+  
+  .user-detail-albums {
+    margin-top: 20px;
+  }
+  
+  .user-detail-albums-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .user-detail-albums-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .user-detail-albums-item {
+    margin-bottom: 8px;
+  }
+  
+  .user-detail-back-link {
+    display: inline-block;
+    margin-top: 20px;
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .user-detail-back-link:hover {
+    color: #0056b3;
+  }
