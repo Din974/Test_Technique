@@ -14,9 +14,9 @@ npm install
 
 L'application comprend les fonctionnalités suivantes :
 
-Page de liste des utilisateurs
-Page de profil utilisateur
-Page de présentation d'un album photo
+1. Page de liste des utilisateurs
+2. Page de profil utilisateur
+3. Page de présentation d'un album photo
 
 ## Exécution
 
